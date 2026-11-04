@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jitendra Pal 👋
 
 ### DevOps & Cloud Engineer | Kubernetes • Docker • AWS • Istio • OpenShift • Linux
 
